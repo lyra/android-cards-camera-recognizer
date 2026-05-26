@@ -3,4 +3,4 @@
 > [!WARNING]
 > This repository is **deprecated** and no longer maintained.
 > 
-> Please check new documentation [here](https://payzen.io) instead.
+> Please check the [documentation](https://payzen.io).
